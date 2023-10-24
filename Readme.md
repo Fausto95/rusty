@@ -5,3 +5,4 @@
 - [Functions](./Functions.md)
 - [Macros](./Macros.md)
 - [ControlFlow](./ControlFlow.md)
+- [Loops](./Loops.md)
