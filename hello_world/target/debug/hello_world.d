@@ -1,1 +1,0 @@
-/Users/faustinontemokialungila/Documents/PERSONAL/DEV/Rusty/hello_world/target/debug/hello_world: /Users/faustinontemokialungila/Documents/PERSONAL/DEV/Rusty/hello_world/src/arithmetic.rs /Users/faustinontemokialungila/Documents/PERSONAL/DEV/Rusty/hello_world/src/functions.rs /Users/faustinontemokialungila/Documents/PERSONAL/DEV/Rusty/hello_world/src/main.rs
