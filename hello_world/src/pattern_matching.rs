@@ -14,4 +14,12 @@ pub fn pattern_matching() {
         13..=19 => println!("You are a teenager"),
         _ => println!("You are an adult"),
     }
+
+    let name = "Faustino";
+
+    match name {
+        "Faustino" => println!("Hello, Faustino!"),
+        "Kial" => println!("Hello, Kial!"),
+        _ => println!("Hello, stranger!"),
+    }
 }
