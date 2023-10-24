@@ -1,4 +1,4 @@
 # Docs
 
-[Data types](./DataTypes.md)
-[Variables](./Variables.md)
+- [Data types](./DataTypes.md)
+- [Variables](./Variables.md)
