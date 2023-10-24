@@ -3,13 +3,14 @@ mod arithmetic;
 mod control_flow;
 mod pattern_matching;
 mod loops;
+mod enums;
+mod structures;
 
 use functions::display_name;
 use control_flow::control_flow;
 use pattern_matching::pattern_matching;
 
 use loops::{repetition, while_loop};
-
 
 fn main() {
     display_name();
@@ -21,4 +22,13 @@ fn main() {
     pattern_matching();
     repetition();
     while_loop();
+
+    enums::go_to(enums::Direction::Up);
+    enums::go_to(enums::Direction::Down);
+    enums::go_to(enums::Direction::Left);
+    enums::go_to(enums::Direction::Right);
+
+    structures::create_box();
+    structures::create_person();
+    structures::create_drink();
 }

@@ -8,3 +8,11 @@
 - [Loops](./Loops.md)
 - [PatternMatching](./PatternMatching.md)
 - [Modules](./Modules.md)
+- [Enums](./Enums.md)
+- [Structures](./Structures.md)
+
+
+
+
+----------- Misc -----------
+- [Miscellaneous](./Miscellaneous.md)
