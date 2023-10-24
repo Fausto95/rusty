@@ -1,3 +1,5 @@
+> This is my attempt to learn the Rust programming language and its toolchain
+
 # Docs
 
 - [Data types](./DataTypes.md)
