@@ -7,9 +7,9 @@ pub fn arithmetic() {
 
     println!("Sum: {}", sum);
     println!("Difference: {}", difference);
-    println!("Product: {}", product);
-    println!("Quotient: {}", quotient);
-    println!("Remainder: {}", remainder);
+    println!("Product: {product:?}");
+    println!("Quotient: {quotient}");
+    println!("Remainder: {:?}", remainder);
 
 }
 
