@@ -16,6 +16,8 @@ let copy = half;
 
 In Rust, variables are declared using the `let` keyword and they are immutable by default.
 
+### Shadowing
+
 We can do shadowing by redefining the same variable.
 
 ```rust
@@ -25,3 +27,5 @@ let file = trim_file(file);
 ```
 
 To make a variable mutable, we use the keyword `mut`.
+
+### Top-level variables ?

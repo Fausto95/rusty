@@ -29,3 +29,5 @@ while a != 5 {
     a = a + 1;
 }
 ```
+
+### For loops

@@ -5,6 +5,8 @@ mod pattern_matching;
 mod loops;
 mod enums;
 mod structures;
+mod tuples;
+mod expressions;
 
 use functions::display_name;
 use control_flow::control_flow;
@@ -31,4 +33,9 @@ fn main() {
     structures::create_box();
     structures::create_person();
     structures::create_drink();
+
+    tuples::start();
+
+    expressions::expressions();
+    expressions::get_access_level();
 }

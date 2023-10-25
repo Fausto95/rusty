@@ -14,3 +14,9 @@ let four = add(two, add(one, one));
 We can name our functions anything, unless they start with numbers or known keywords.
 
 Every function in Rust must specify the return type.
+
+### Lambdas
+
+### High-order functions
+
+### Closures

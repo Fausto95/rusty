@@ -6,15 +6,23 @@
 - [Variables](./Variables.md)
 - [Functions](./Functions.md)
 - [Macros](./Macros.md)
-- [ControlFlow](./ControlFlow.md)
+- [Control Flow](./ControlFlow.md)
 - [Loops](./Loops.md)
-- [PatternMatching](./PatternMatching.md)
+- [Pattern Matching](./PatternMatching.md)
 - [Modules](./Modules.md)
 - [Enums](./Enums.md)
 - [Structures](./Structures.md)
+- [Tuples](./Tuples.md)
+- [Expressions](./Expressions.md)
+
+
+## TBD
+- [Testing](./Testing.md)
+- [IO](./IO.md)
+- [Async](./Async.md)
 
 
 
 
------------ Misc -----------
+## Misc
 - [Miscellaneous](./Miscellaneous.md)
