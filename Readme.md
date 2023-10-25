@@ -18,6 +18,7 @@
 - [Implementation](./Implementation.md)
 - [Vectors](./Vectors.md)
 - [Strings](./Strings.md)
+- [Derive](./Derive.md)
 
 
 ## TBD
