@@ -9,6 +9,7 @@ mod tuples;
 mod expressions;
 mod ownership;
 mod implementation;
+mod vectors;
 
 use functions::display_name;
 use control_flow::control_flow;
@@ -46,4 +47,6 @@ fn main() {
     ownership::display_week_day(&day_week);
 
     implementation::log_person();
+
+    vectors::get_boxes();
 }

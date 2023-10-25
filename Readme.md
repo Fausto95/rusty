@@ -16,6 +16,7 @@
 - [Expressions](./Expressions.md)
 - [Ownership](./Ownership.md)
 - [Implementation](./Implementation.md)
+- [Vectors](./Vectors.md)
 
 
 ## TBD
