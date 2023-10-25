@@ -10,6 +10,7 @@ mod expressions;
 mod ownership;
 mod implementation;
 mod vectors;
+mod strings;
 
 use functions::display_name;
 use control_flow::control_flow;
@@ -49,4 +50,6 @@ fn main() {
     implementation::log_person();
 
     vectors::get_boxes();
+
+    strings::print_frameworks();
 }

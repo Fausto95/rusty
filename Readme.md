@@ -17,6 +17,7 @@
 - [Ownership](./Ownership.md)
 - [Implementation](./Implementation.md)
 - [Vectors](./Vectors.md)
+- [Strings](./Strings.md)
 
 
 ## TBD
