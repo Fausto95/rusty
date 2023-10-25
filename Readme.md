@@ -14,6 +14,7 @@
 - [Structures](./Structures.md)
 - [Tuples](./Tuples.md)
 - [Expressions](./Expressions.md)
+- [Ownership](./Ownership.md)
 
 
 ## TBD

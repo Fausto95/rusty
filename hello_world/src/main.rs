@@ -7,6 +7,7 @@ mod enums;
 mod structures;
 mod tuples;
 mod expressions;
+mod ownership;
 
 use functions::display_name;
 use control_flow::control_flow;
@@ -38,4 +39,8 @@ fn main() {
 
     expressions::expressions();
     expressions::get_access_level();
+
+    let day_week = ownership::WeekDay::Monday;
+    ownership::display_week_day(&day_week);
+    ownership::display_week_day(&day_week);
 }
