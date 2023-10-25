@@ -2,13 +2,13 @@
 
 # Docs
 
-- [Data types](./DataTypes.md)
+- [Data types](./Data%20Types.md)
 - [Variables](./Variables.md)
 - [Functions](./Functions.md)
 - [Macros](./Macros.md)
-- [Control Flow](./ControlFlow.md)
+- [Control Flow](./Control%20Flow.md)
 - [Loops](./Loops.md)
-- [Pattern Matching](./PatternMatching.md)
+- [Pattern Matching](./Pattern%20Matching.md)
 - [Modules](./Modules.md)
 - [Enums](./Enums.md)
 - [Structures](./Structures.md)
@@ -19,6 +19,7 @@
 - [Vectors](./Vectors.md)
 - [Strings](./Strings.md)
 - [Derive](./Derive.md)
+- [Type Annotation](./Type%20Annotation.md)
 
 
 ## TBD
