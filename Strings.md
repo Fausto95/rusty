@@ -4,7 +4,7 @@ String are used to store text information.
 
 There are two commonly used string types in Rust:
 
-- String -> owned
+- String -> Owned
 - &str -> Borrowed string slice
 
 We must use an owned `String` to store in a struct, and use `&str` when passing to a function.

@@ -1,9 +1,12 @@
+
 pub enum Direction {
     Up,
     Down,
     Left,
     Right
 }
+
+
 
 pub fn go_to(direction: Direction) {
     match direction {

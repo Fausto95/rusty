@@ -29,3 +29,20 @@ fn main() {
     }
 }
 ```
+
+
+### Struct Matching
+
+```rust
+struct City {
+    name: String;
+}
+
+let city = City {
+    name: "Luanda".to_owned(),
+}
+
+match city {
+    City {name} => println!("City is {name:?}"),
+}
+```

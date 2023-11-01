@@ -11,6 +11,7 @@ mod ownership;
 mod implementation;
 mod vectors;
 mod strings;
+mod options;
 
 use functions::display_name;
 use control_flow::control_flow;
@@ -52,4 +53,8 @@ fn main() {
     vectors::get_boxes();
 
     strings::print_frameworks();
+
+    options::get_cities();
+    println!("Person: {:?}", options::find_person( "John"));
+
 }
